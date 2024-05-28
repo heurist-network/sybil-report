@@ -1,4 +1,10 @@
-# Heurist Sybil Reporting
+# Update May 28th
+
+Announcement: https://heuristai.medium.com/heurist-sybil-analysis-season-1-1143f4249b12
+
+We've listed the first batch of confirmed cheaters in https://github.com/heurist-network/sybil-report/blob/main/llm-cheaters-05-11-and-05-20.csv including the probe job request and response of each address. Use `https://d2m8ger4zqfcbt.cloudfront.net/` to replace `s3://validator-history/` to download the file.
+
+# Inactive: Heurist Sybil Reporting
 
 Over 10k GPUs have interacted with Heurist testnet mining since its initial launch two months ago. As we are going to distribute 5% token supply as airdrop to testnet miners, a critical point is identifying the cheaters in the network. We have already found hundreds of wallet addresses demonstrating cheating behaviors, including:
 
