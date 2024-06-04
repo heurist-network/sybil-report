@@ -2,7 +2,12 @@
 
 Announcement: https://heuristai.medium.com/heurist-sybil-analysis-season-1-1143f4249b12
 
-We've listed the first batch of confirmed cheaters in https://github.com/heurist-network/sybil-report/blob/main/llm-cheaters-05-11-and-05-20.csv including the probe job request and response of each address. Use `https://d2m8ger4zqfcbt.cloudfront.net/` to replace `s3://validator-history/` to download the file.
+We've listed the first batch of confirmed cheaters in the following files
+
+- https://github.com/heurist-network/sybil-report/blob/main/cheat_miner_collections_s3_bucket_output-05112024-0530-recheck.csv
+- https://github.com/heurist-network/sybil-report/blob/main/cheat_miner_collections_s3_bucket_output-05202024-0530-recheck.csv
+  
+The files include the probe job request and response of each address. Use `https://d2m8ger4zqfcbt.cloudfront.net/` to replace `s3://validator-history/` to download the file.
 
 # Inactive: Heurist Sybil Reporting
 
